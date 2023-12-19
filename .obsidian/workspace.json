@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "publish/on-the-axiom-of-limitation-of-Size-in-the-context-of-mk.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "publish/on-the-axiom-of-limitation-of-Size-in-the-context-of-mk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "publish/on-the-axiom-of-limitation-of-Size-in-the-context-of-mk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "publish/on-the-axiom-of-limitation-of-Size-in-the-context-of-mk.md"
               }
             }
           },
@@ -169,8 +169,8 @@
   },
   "active": "6cf2d93ad1f91a1a",
   "lastOpenFiles": [
-    "_navbar.md",
     "README.md",
+    "_navbar.md",
     "_sidebar.md",
     "publish/on-the-axiom-of-limitation-of-Size-in-the-context-of-mk.md",
     "index.html",
