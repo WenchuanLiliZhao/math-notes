@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "3c7a5200747b9c4f",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b84d17b0f082d51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97f82c289e4ae6b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "publish/on-the-axiom-of-limitation-of-Size-in-the-context-of-mk.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6cf2d93ad1f91a1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "90e2a7b34e166057",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_navbar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0831ef5b5aebbb5f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0a2c44a7f6a8cc3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "035077ce23546431",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4e837de9cf37549a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "044afa10a0d3b19d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "80ada817978e2de0",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f7fbd58a3520269",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7242de035ad75061",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_navbar.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bcdd3c2c1f6ccbeb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_navbar.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5ef80abe566a73a5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "92d2b586bd216414",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_navbar.md"
+              }
+            }
+          },
+          {
+            "id": "b6d9554ae83edef6",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "90e2a7b34e166057",
+  "lastOpenFiles": [
+    "README.md",
+    "_navbar.md",
+    "_sidebar.md",
+    "publish/on-the-axiom-of-limitation-of-Size-in-the-context-of-mk.md",
+    "index.html",
+    "docs/index.html",
+    "docs/README.md",
+    "docs",
+    "2023-12-19 ssss.md",
+    "2023-12-18 ssss.md",
+    "publish/2023-12-19 sss.md",
+    "publish/2023-12-19 Something About the Axiom of E.md",
+    "Untitled.loom",
+    "Untitled 1.loom",
+    "publish/2023-12-19 Something.md",
+    "publish/2023-12-19 s.md",
+    "Untitled/Untitled 1.md",
+    "publish"
+  ]
+}
