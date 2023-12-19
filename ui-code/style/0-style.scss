@@ -4,6 +4,29 @@
 
 
 
+
+.search {
+  input {
+    border: 1px solid rgba(black, 0.04) !important;
+    background-color: rgba(black, 0.02);
+  
+    &:hover {
+      background-color: rgba(black, 0.04);
+    }
+  
+    &:focus {
+      box-shadow: none !important;
+      border: 1px solid rgba(black, 0.08) !important;
+      background-color: rgba(black, 0);
+    }
+  
+    &::placeholder {
+      opacity: 0.5;
+    }
+  }
+}
+
+
 html {
   font-family: -apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";;
 

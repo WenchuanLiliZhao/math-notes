@@ -42,6 +42,17 @@
           icon: 'lili-icon-note',
           className: 'note',
         },
+      },
+
+      // 🔍 search "scripts for search" in file to jump to the script tag for the search function
+      search: {
+        maxAge: 86400000, // Expiration time, the default one day
+        paths: 'auto',
+        placeholder: 'Search Lili\'s Math Notes',
+        noData: 'No Results!',
+        // Headline depth, 1 - 6
+        depth: 6,
+        hideOtherSidebarContent: false, // whether or not to hide other sidebar content
       }
     }
   </script>
@@ -61,5 +72,9 @@
   <!-- <script src="https://unpkg.com/docsify-plugin-flexible-alerts"></script> -->
   
   <script src="./ui-code/js/callouts.js"></script>
+
+  <script src="//unpkg.com/docsify/lib/plugins/search.min.js">
+    // scripts for search
+  </script>
 </body>
 </html>
